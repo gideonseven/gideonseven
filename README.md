@@ -28,7 +28,9 @@ I’m currently open to job opportunities that offer 482 visa sponsorship in Aus
 
 ## 🎓 Certifications
 
-- ✔️ Google Cybersecurity Professional Certificate (Coursera)  
+- ✔️ Google Cybersecurity Professional Certificate (Coursera)
+- ✔️ Programming Fundamentals in Kotlin (Coursera)
+- ✔️ Splunk Search Expert 101 (Coursera)
 
 ---
 
