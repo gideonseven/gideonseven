@@ -2,7 +2,7 @@
 
 🎓 Master of IT (Software Development) | 📱 Android Developer | 🔐 Cybersecurity Learner  
 📍 Brisbane, Australia | 💼 Looking for 482 sponsorship opportunities  
-🔗 [LinkedIn](https://www.linkedin.com/in/gideon-tobing/) | 💻 [GitHub](https://github.com/gideonseven)
+🔗 [LinkedIn](https://www.linkedin.com/in/gideon-tobing/) | 💻 [GitHub](https://github.com/gideonseven) | 📧 [Email] gideon.tobing@gmail.com
 
 ---
 
@@ -50,14 +50,6 @@ I’m currently open to job opportunities that offer 482 visa sponsorship in Aus
 - Work full-time in Australia under a 482 visa sponsorship  
 - Grow in a company that supports permanent residency (186 pathway)  
 - Keep improving my skills and stay up to date with tech trends  
-
----
-
-## 📬 Contact Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gideon-tobing/)  
-- 💻 [GitHub](https://github.com/gideonseven)  
-- 📧 gideon.tobing@gmail.com  
 
 ---
 
