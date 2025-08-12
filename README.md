@@ -32,25 +32,4 @@ I’m currently open to job opportunities that offer 482 visa sponsorship in Aus
 - ✔️ Programming Fundamentals in Kotlin (Coursera)
 - ✔️ Splunk Search Expert 101 (Coursera)
 
----
-
-## 🛠 Skills
-
-**Languages:** Java, Kotlin, Dart, Go, Python, JavaScript, SQL  
-**Frameworks:** Android SDK, Flutter, Laravel, React  
-**Cyber Tools:** Wireshark, Splunk, Autopsy, Nmap, Metasploit  
-**Databases & Backend:** PostgreSQL, Firebase, REST APIs  
-**Tools:** Git, Docker, Android Studio, IntelliJ, VS Code, Postman  
-
----
-
-## 💡 My Goals
-
-- Get job-ready in both mobile development and cybersecurity  
-- Work full-time in Australia under a 482 visa sponsorship  
-- Grow in a company that supports permanent residency (186 pathway)  
-- Keep improving my skills and stay up to date with tech trends  
-
----
-
 _I'm open to work opportunities in cybersecurity, backend, or mobile development anywhere in Australia._
