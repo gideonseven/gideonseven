@@ -24,12 +24,4 @@ I’m currently open to job opportunities that offer 482 visa sponsorship in Aus
 - 📚 Studying IT Governance and Software Development at Griffith University  
 - 🛒 Working part-time at Woolworths (night shift)
 
----
-
-## 🎓 Certifications
-
-- ✔️ Google Cybersecurity Professional Certificate (Coursera)
-- ✔️ Programming Fundamentals in Kotlin (Coursera)
-- ✔️ Splunk Search Expert 101 (Coursera)
-
 _I'm open to work opportunities in cybersecurity, backend, or mobile development anywhere in Australia._
