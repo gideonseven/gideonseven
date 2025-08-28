@@ -2,7 +2,7 @@
 
 Master of IT (Software Development) | Android Developer | Cybersecurity Learner  
 Brisbane, Australia | Looking for 482 sponsorship opportunities  
-[LinkedIn](https://www.linkedin.com/in/gideon-tobing/) | 📧 [Email](gideon.tobing@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gideon-tobing/) | [Email](gideon.tobing@gmail.com)
 
 ---
 ## What I'm Doing Now
