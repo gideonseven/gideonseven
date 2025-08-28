@@ -6,16 +6,6 @@
 
 ---
 
-## 🙋‍♂️ About Me
-
-I’m an IT student and software developer with over 7 years of experience in Android development. I’m now studying for my Master’s degree at Griffith University and doing an internship in secure software development.  
-
-Recently, I completed the Google Cybersecurity Certificate and  I enjoy learning new technologies and building real projects, especially in mobile and cybersecurity. 
-
-I’m currently open to job opportunities that offer 482 visa sponsorship in Australia.
-
----
-
 ## 🧠 What I'm Doing Now
 
 - 🛡️ Internship at RightSec (secure software project using Go + PostgreSQL + React)  
