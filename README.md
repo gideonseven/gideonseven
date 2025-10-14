@@ -6,11 +6,9 @@ Brisbane, Australia | Looking for 482 sponsorship opportunities
 
 ---
 ## What I'm Doing Now
-
-- Internship at RightSec (secure software project using Go + PostgreSQL + React)  
-- Building a Tetris game in Java for uni project  
-- Learning Golang and React in my free time  
-- Studying IT Governance and Software Development at Griffith University  
-- Working part-time at Woolworths (night shift)
+- Preparing for my Java final exam and polishing my OOP fundamentals
+- Expanding my skills in mobile development (Flutter & Android)
+- Learning backend technologies (Go, PostgreSQL) and exploring cybersecurity projects
+- Working part-time at Woolworths (Night Fill Team) while balancing university and technical growth
 
 _I'm open to work opportunities in cybersecurity, backend, or mobile development anywhere in Australia._
