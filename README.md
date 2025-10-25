@@ -6,7 +6,7 @@ Brisbane, Australia
 
 ---
 ## What I'm Doing Now
-- Expanding my skills in mobile development (Flutter & Android)
+- Expanding my skills in mobile development (Flutter, Android & IOS)
 - Learning backend technologies (Go, PostgreSQL)
 - Exploring cybersecurity projects
 
