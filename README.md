@@ -1,6 +1,6 @@
 # Hi, I'm Gideon Tobing
 
-Master of IT (Software Development) | Android Engineer | Cybersecurity Learner  
+Master of IT (Software Development) | Android Engineer | Cybersecurity Enthusiast  
 Brisbane, Australia
 [LinkedIn](https://www.linkedin.com/in/gideon-tobing/) | [Email](mailto:gideon.tobing@gmail.com)
 
