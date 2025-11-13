@@ -11,4 +11,4 @@ Brisbane, Australia
 - Exploring cybersecurity projects
 - Waiting for my graduation ceremony soon!
 
-_Lets Chat!_
+_Open For Opportunity to work - Mobile Dev - Front End - Back End - CyberSecurity across Australia!_
