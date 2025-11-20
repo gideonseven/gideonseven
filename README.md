@@ -6,7 +6,7 @@ Brisbane, Australia
 
 ---
 ## What I'm Doing Now
-- Expanding my skills in Kotlin Multiplatform Mobile
+- Expanding my skills in IOS and Kotlin Multiplatform Mobile
 - Learning backend technologies (Go, PostgreSQL)
 - Exploring cybersecurity projects
 - Waiting for my graduation ceremony soon!
