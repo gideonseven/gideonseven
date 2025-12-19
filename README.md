@@ -9,6 +9,5 @@ Brisbane, Australia
 - Expanding my skills in IOS, Kotlin Multiplatform Mobile and Compose Multiplatform
 - Learning backend technologies (Go, PostgreSQL)
 - Exploring cybersecurity projects
-- Waiting for my graduation ceremony soon!
 
 _Open For Opportunity to work - Mobile Dev - Front End - Back End - CyberSecurity across Australia!_
