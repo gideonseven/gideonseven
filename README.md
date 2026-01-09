@@ -1,7 +1,6 @@
 # Hi, I'm Gideon Tobing
 
 Mobile Engineer | Cybersecurity Enthusiast 
-Brisbane, Australia
 [LinkedIn](https://www.linkedin.com/in/gideon-tobing/) | [Email](mailto:gideon.tobing@gmail.com)
 
 ---
@@ -10,4 +9,4 @@ Brisbane, Australia
 - Learning backend technologies (Go, PostgreSQL)
 - Exploring cybersecurity projects
 
-_Open For Opportunity to work - Mobile Dev - Front End - Back End - CyberSecurity across Australia!_
+_Open For Opportunity to work - Mobile Dev - Front End - Back End - CyberSecurity !_
