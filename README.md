@@ -1,6 +1,6 @@
 # Hi, I'm Gideon Tobing
 
-Mobile Engineer | Cybersecurity Enthusiast 
+Mobile Engineer | Tech Enthusiast 
 [LinkedIn](https://www.linkedin.com/in/gideon-tobing/) | [Email](mailto:gideon.tobing@gmail.com)
 
 ---
