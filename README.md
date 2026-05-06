@@ -8,5 +8,3 @@ Software Engineer | Tech Enthusiast
 - Expanding my skills in IOS, Kotlin Multiplatform Mobile and Compose Multiplatform
 - Learning backend technologies (Go, PostgreSQL)
 - Exploring cybersecurity projects
-
-_Open For Opportunity to work - Mobile Dev - Front End - Back End - CyberSecurity !_
