@@ -1,7 +1,7 @@
 # Hi, I'm Gideon Tobing
 
 Software Engineer
-[LinkedIn](https://www.linkedin.com/in/gideon-tobing/) | [Email](mailto:gideon.tobing@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gideon-tobing/) | [Web](https://www.gideontobing.com)
 
 ---
 ## What I'm Doing Now
